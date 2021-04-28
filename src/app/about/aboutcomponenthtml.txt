@@ -1,0 +1,33 @@
+<br><div class="head"><h1>Instructions to take the Quiz</h1>
+    <br>
+    <h4>
+        1 . Go to home page.
+    </h4><br>
+    <h4>
+        2 . In home page you can see three puzzles.
+    </h4><br>
+    <h4>
+        3 . Choose the quiz you want to master<br>
+           
+    </h4><br>
+    <h4>
+        4 . Click on quiz to find the Questions.
+    </h4><br>
+    <h4>
+        5 . Ample amount of time is provided to answer the questions.
+    </h4><br>
+    <h4>
+        6 . Once you answered a question ,click on submit 
+    </h4><br>
+    
+    <h4>
+        7 . Check the final Result to view the report ,Finally click on close to return to home page
+    </h4>
+    </div>
+    <app-footer></app-footer>
+
+    
+    
+    
+    
+    

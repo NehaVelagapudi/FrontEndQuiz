@@ -1,0 +1,57 @@
+[
+    {
+        "id":"1",
+        "Question":"The property in CSS used to change the text color of an element is?",
+        "option1":"color",
+        "option2":"bg-color",
+        "option3":"background-color",
+        "option4":"All of the above",
+        "Ans":"color",
+        "Explanation":"The color property in CSS is used to set the color of HTML elements. Typically, this property is used to set the font color of an element. In CSS, we use color values for specifying the color. We can also use this property for the border-color and other decorative effects."
+    },
+    {
+        "id":"2",
+        "Question":" Which of the following property is used as the shorthand property for the padding properties?",
+        "option1":"padding-left",
+        "option2":"padding",
+        "option3":"padding-right",
+        "option4":"padding-center",
+        "Ans":"padding",
+        "Explanation":"CSS padding property is used to define the space between the element content and the element border. Top, bottom, left and right padding can be changed independently using separate properties. By using the shorthand padding property we can also change all padding properties at once."
+    },
+    {
+        "id":"3",
+        "Question":"Are the negative values allowed in padding property?",
+        "option1":"Cant'say",
+        "option2":"May be",
+        "option3":"Yes",
+        "option4":"No",
+        "Ans":"No",
+        "Explanation":"The negative values are not allowed when using the padding property.."
+    },
+    {
+        "id":"4",
+        "Question":"The CSS property used to specify the transparency of an element is? ",
+        "option1":"opacity",
+        "option2":"filter",
+        "option3":"visibility",
+        "option4":"overlay",
+        "Ans":"opacity",
+        "Explanation":"The CSS opacity property is used to specify the transparency of an element. In simple words, you can say that it specifies the clarity of the image."
+    },
+    {
+        "id":"5",
+        "Question":"Which of the following CSS property is used to specify the space between every letter inside an element?",
+        "option1":"alpha-spacing",
+        "option2":"alphabet-spacing",
+        "option3":"letter-spacing",
+        "option4":"character-spacing",
+        "Ans":"alpha-spacing",
+        "Explanation":"The letter-spacing property in CSS is used to control the space between every letter inside an element or the block of text. It sets the spacing behavior between the characters of the text. Using this property, we can increase or decrease the space between the characters of the text."
+    }
+    
+        
+    
+
+
+]

@@ -1,0 +1,22 @@
+<style>
+  
+  .ul{
+    text-align : "center";
+    list-style :"inside";
+
+  }
+</style>
+       <h1  style="text-align: center;font-family: bold; font-size: 150px; ">Frontend Quiz</h1><br><br>
+       <ul style = "text-align:center ; list-style:none ; font-size:40px">
+
+       <li> <a  [routerLink]="['/logical']">HTML</a><br></li>
+
+       <li> <a [routerLink]="['/math']">CSS</a><br></li>
+       <li> <a [routerLink]="['/number']">Boot Strap</a> </li>
+        </ul>
+<app-footer></app-footer>
+      
+      
+
+
+<br><br>

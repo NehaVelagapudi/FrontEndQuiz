@@ -1,0 +1,31 @@
+<div class="head"><h1>Contact Form</h1>
+</div> 
+<div class="container">
+    <form action="action_page.php">  
+      <label for="fname">Name</label>
+      <input type="text" id="fname" name="firstname" placeholder="Your name..">
+  
+      
+      <label for="state">State</label>
+      <select id="state" name="state">
+        <option value="AndhraPradesh">AndhraPradesh</option>
+        <option value="Telangana">Telangana</option>
+        <option value="karnataka">Karnataka</option>
+        <option value="other">Other</option>
+
+      </select>
+  
+      <label for="subject">Subject</label>
+      <textarea id="subject" name="subject" placeholder="Write your comments here.." style="height:200px"></textarea>
+  
+    </form>
+    <div class="text-center text-md-left">
+        <button type="button" class="btn btn-primary" (click)="get()">Submit</button>
+    </div>
+    <div class="status"></div>
+
+
+</div>
+<app-footer></app-footer>
+
+  

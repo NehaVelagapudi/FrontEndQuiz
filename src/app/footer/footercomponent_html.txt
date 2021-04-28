@@ -1,0 +1,5 @@
+<footer class="footer">
+    <div class ="container">
+        <span class="text-align : center "> All copy rights are issued and Rights Reserved @2021  </span>
+    </div>
+</footer>

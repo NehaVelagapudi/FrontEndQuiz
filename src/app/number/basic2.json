@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "Question":"Who developed the bootstrap?",
+        "option1":"James Gosling",
+        "option2":"Mark Jukervich",
+        "option3":"Dennis Ritchie",
+        "option4":"Mark Otto and Jacob Thornton",
+        "Ans":"Mark Otto and Jacob Thornton",
+        "Explanation":"Mark Otto and Jacob Thornton developed bootstrap at Twitter. It was released as an open-source product in August 2011 on GitHub"
+    },
+    {
+        "id":2,
+        "Question":"How many columns are allowed in a bootstrap grid system?",
+        "option1":"10",
+        "option2":"12",
+        "option3":"2",
+        "option4":"1",
+        "Ans":"12",
+        "Explanation":"The Bootstrap Grid System allows up to 12 columns across the page. You can use all 12 columns individually, or you can groups the columns together to create wider columns."
+    },
+    {
+        "id":3,
+        "Question":"The plugin used to create a cycle through elements as a slideshow is ",
+        "option1":"carousel",
+        "option2":"scrollspy",
+        "option3":"slideshow",
+        "option4":"None of the above",
+        "Ans":"carousel",
+        "Explanation":"The Bootstrap carousel is a flexible, responsive way that is used to add a slider to your webpage. The carousel plugin is a component for cycling through an element, like a slideshow. If you want to add plugin functionality individually, then you have to use carousel.js file or all at once "
+    },
+    {
+        "id":4,
+        "Question":"Is it true that the Bootstrap grid system works across multiple devices?",
+        "option1":"True",
+        "option2":"Can't Say",
+        "option3":"No",
+        "option4":"May be",
+        "Ans":"True",
+        "Explanation":"Bootstrap Grid System is responsive, and the columns are re-arranged automatically according to the screen size. The Bootstrap Grid System allows up to 12 columns across the page. You can use all 12 columns individually, or you can groups the columns together to create wider columns"
+    },
+    {
+        "id":5,
+        "Question":"What is the default layout of the Bootstrap form?",
+        "option1":"Horizantal",
+        "option2":"Inline",
+        "option3":"Vertical",
+        "option4":"Outline",
+        "Ans":"Vertical",
+        "Explanation":" In Bootstrap, there are three types of form layouts that are - vertical, horizontal, and inline. The default layout of the Bootstrap form is vertical."
+    }
+]

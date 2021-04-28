@@ -1,0 +1,53 @@
+[
+    {
+      "id":1,
+      "Question":" How to create an ordered list (a list with the list items in numbers) in HTML?",
+       "option1":"<ul>",
+       "option2":"<ol>",
+       "option3":"<il>",
+       "option4":"<l1>",
+       "Ans":"<ul>",
+       "Explanation":"The <ol> tag in HTML is used to display the list items in a numbered format. There can be different types of numbered list: numeric number, capital alphabet, small alphabet, etc."
+    },
+    {
+      "id":2,
+      "Question":"<input> is ",
+       "option1":"a format tag",
+       "option2":"empty tag",
+       "option3":"Both of them",
+       "option4":"None of them",
+       "Ans":"empty tag",
+       "Explanation":"The <input> tag in HTML is used to represent a form input control in HTML document"
+    },
+    {
+      "id":3,
+      "Question":"Which of the following tag is used to define options in a drop-down selection list?",
+       "option1":"<select>",
+       "option2":"<list>",
+       "option3":"<dropdown>",
+       "option4":"<option>",
+       "Ans":"<option>",
+       "Explanation":"The <option> tag in HTML is used to define options in a dropdown list within <select> or <datalist> element. A dropdown list must have at least one <option> element"
+    },
+    {
+      "id":4,
+      "Question":"Which of the following attribute is used to provide a unique name to an element?",
+       "option1":"class",
+       "option2":"id",
+       "option3":"type",
+       "option4":"None of the above",
+       "Ans":"id",
+       "Explanation":"The id attribute is used to specify a unique id for an element of the HTML document. It allocates the unique identifier which can be used by the JavaScript and CSS to perform certain tasks."
+    },
+    {
+      "id":5,
+      "Question":"Which of the following HTML tag is used to display the text with scrolling effect?",
+       "option1":"<marquee>",
+       "option2":"<scroll>",
+       "option3":"<div>",
+       "option4":"<ul>",
+       "Ans":"<marquee>",
+       "Explanation":"The <marquee> tag is a non-standard HTML element that is used to scroll a text or image either horizontally or vertically. In simple words, we can say that it automatically scrolls the image or text in up, down, left, and right direction."
+    }
+    
+  ]
